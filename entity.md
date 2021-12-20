@@ -1,11 +1,11 @@
 
-** Entity Framework notes
+## Entity Framework notes
 
-*** Relationships
+### Relationships
 
-**** One to many
+#### One to many
 
-```
+```cs
 public class Student {
    public int ID { get; set; }
    public string LastName { get; set; }

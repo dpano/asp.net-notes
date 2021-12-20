@@ -63,3 +63,7 @@ public class StudentProfile {
    public virtual Student Student { get; set; }
 }
 ```
+
+### Entity Framework - Lifecycle
+
+

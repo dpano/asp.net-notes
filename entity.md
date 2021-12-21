@@ -141,3 +141,8 @@ using (var context = new UniContext()) {
    context.SaveChanges();
 }
 ```
+
+
+## Links
+
+- [Youtube: Entity Framework 6 Tutorial: Learn Entity Framework 6 from Scratch](https://www.youtube.com/watch?v=ZX7_12fwQLU)

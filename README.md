@@ -827,3 +827,6 @@ The InverseProperty is used when you have multiple relationships between classes
 - [Repository pattern](https://deviq.com/design-patterns/repository-pattern)
 - [ASP.NET MVC tutorial](https://www.tutorialspoint.com/asp.net_mvc/index.htm)
 - [Sofware design patterns](https://sourcemaking.com/)
+- [ASP.NET Turorial in youtube](https://www.youtube.com/playlist?list=PL6n9fhu94yhVm6S8I2xd6nYz2ZORd7X2v)
+  - [Controllers in an MCV Application](https://www.youtube.com/watch?v=duQ1Pvr-oW0&list=PL6n9fhu94yhVm6S8I2xd6nYz2ZORd7X2v&index=4)
+  
